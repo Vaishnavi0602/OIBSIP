@@ -58,7 +58,7 @@ Python-Task3-PasswordGenerator/
 
 ## Author
 
-Jay Panchal
+Vaishnavi Gangrade
 
 Computer Engineering Student
 
