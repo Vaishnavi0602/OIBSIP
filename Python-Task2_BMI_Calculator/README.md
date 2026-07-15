@@ -72,7 +72,7 @@ Add screenshots of:
 
 ## Author
 
-**Vaishnavi Gangra**
+**Vaishnavi Gangrade**
 
 Computer Engineering Student  
 GTU | Oasis Infobyte Internship
