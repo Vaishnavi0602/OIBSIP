@@ -1,4 +1,4 @@
-# \# 🌤️ Weather Application
+<img width="876" height="361" alt="image" src="https://github.com/user-attachments/assets/9caf8e4f-4790-4f83-bcb8-fde9f76ca454" /># \# 🌤️ Weather Application
 
 # 
 
@@ -268,7 +268,7 @@
 
 # 
 
-# \*\*Jay Panchal\*\*
+# \*\*Vaishnavi Gangrade\*\*
 
 # 
 
